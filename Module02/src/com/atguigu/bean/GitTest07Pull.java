@@ -6,6 +6,6 @@ package com.atguigu.bean;
  */
 public class GitTest07Pull {
   public static void main(String[] args) {
-
+    System.out.println("");
   }
 }
