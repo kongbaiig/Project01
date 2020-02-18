@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="idea提交github Test">
-      <change afterPath="$PROJECT_DIR$/Module02/Module02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -109,6 +105,19 @@
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,6 +156,7 @@
         <option value="$PROJECT_DIR$/JavaWeb/web/index.jsp" />
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java" />
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java" />
+        <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest03.java" />
       </list>
     </option>
   </component>
@@ -367,7 +377,7 @@
       <workItem from="1581907320121" duration="455000" />
       <workItem from="1581907836095" duration="12188000" />
       <workItem from="1581989834115" duration="1571000" />
-      <workItem from="1581991498353" duration="2592000" />
+      <workItem from="1581991498353" duration="2843000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交github Test1">
       <created>1581993994553</created>
@@ -376,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581993994553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea提交github Test2">
+      <created>1581994182408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581994182408</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17023000" />
+    <option name="totallyTimeSpent" value="17274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
@@ -429,7 +446,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea提交github Test" />
     <MESSAGE value="idea提交github Test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test1" />
+    <MESSAGE value="idea提交github Test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -628,6 +646,17 @@
           <folding>
             <element signature="e#150#151#0" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
