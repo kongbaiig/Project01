@@ -5,5 +5,7 @@ package com.atguigu.bean;
  * @create 2020-02-18 11:02
  */
 public class GitTest07Pull {
-  main
+  public static void main(String[] args) {
+
+  }
 }

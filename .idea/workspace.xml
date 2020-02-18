@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="" />
+    <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,42 +86,12 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest03.java">
+        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-              </folding>
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -157,6 +130,7 @@
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java" />
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java" />
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest03.java" />
+        <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java" />
       </list>
     </option>
   </component>
@@ -185,6 +159,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,8 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,6 +352,7 @@
       <workItem from="1581907836095" duration="12188000" />
       <workItem from="1581989834115" duration="1571000" />
       <workItem from="1581991498353" duration="2843000" />
+      <workItem from="1581994798941" duration="512000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交github Test1">
       <created>1581993994553</created>
@@ -393,18 +368,25 @@
       <option name="project" value="LOCAL" />
       <updated>1581994182408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="idea提交github Test4">
+      <created>1581995054529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581995054529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17274000" />
+    <option name="totallyTimeSpent" value="17786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49943376" visible="true" weight="0.27222222" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49943376" visible="true" weight="0.2777778" />
       <window_info id="Structure" order="2" sideWeight="0.5016892" side_tool="true" weight="0.2611111" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -424,11 +406,11 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Terminal" order="15" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="17" visible="true" weight="0.32879817" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32879817" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.36222222" />
@@ -437,7 +419,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" visible="true" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +429,8 @@
     <MESSAGE value="idea提交github Test" />
     <MESSAGE value="idea提交github Test1" />
     <MESSAGE value="idea提交github Test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test2" />
+    <MESSAGE value="idea提交github Test4" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test4" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -630,22 +613,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="119">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="119">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding>
             <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -656,8 +639,22 @@
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
