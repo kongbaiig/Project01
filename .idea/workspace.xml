@@ -7,22 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="idea提交github Test">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fcd9f046-62e7-41e2-84af-360bd2b1d3f7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fcd9f046-62e7-41e2-84af-360bd2b1d3f7/storage_v2/_src_/schema/mydb2.SIY4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fcd9f046-62e7-41e2-84af-360bd2b1d3f7/storage_v2/_src_/schema/mydb2.SIY4Bg.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Module02/Module02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IdeaProject01/com/gtguigu/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IdeaProject01/com/gtguigu/Template1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Module01/META-INF/Module01.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Module01/com/atguigu/bean/Cusomer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Module02/com/atguigu/bean/GitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +88,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -109,6 +96,19 @@
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/com/gtguigu/Template1.java" />
         <option value="$PROJECT_DIR$/JavaWeb/web/index.jsp" />
         <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest.java" />
+        <option value="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java" />
       </list>
     </option>
   </component>
@@ -180,42 +181,6 @@
             <path>
               <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="Module01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="Module01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProject01" type="462c0819:PsiDirectoryNode" />
-              <item name="Module01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaProject01" type="b2602c69:ProjectViewProjectNode" />
@@ -402,18 +367,27 @@
       <workItem from="1581907320121" duration="455000" />
       <workItem from="1581907836095" duration="12188000" />
       <workItem from="1581989834115" duration="1571000" />
-      <workItem from="1581991498353" duration="2189000" />
+      <workItem from="1581991498353" duration="2592000" />
     </task>
+    <task id="LOCAL-00001" summary="idea提交github Test1">
+      <created>1581993994553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581993994553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16620000" />
+    <option name="totallyTimeSpent" value="17023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49943376" visible="true" weight="0.27222222" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49943376" visible="true" weight="0.27222222" />
       <window_info id="Structure" order="2" sideWeight="0.5016892" side_tool="true" weight="0.2611111" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -437,7 +411,7 @@
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Terminal" order="15" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="17" visible="true" weight="0.32879817" />
+      <window_info anchor="bottom" id="Messages" order="17" visible="true" weight="0.32879817" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.36222222" />
@@ -454,7 +428,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea提交github Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test" />
+    <MESSAGE value="idea提交github Test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/util/calendar/BaseCalendar.class">
@@ -641,6 +617,17 @@
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
           </folding>
         </state>
       </provider>
