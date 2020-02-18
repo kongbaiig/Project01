@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="553ae6c3-5549-4eb6-bf1b-ae3d2db6703e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +90,11 @@
         <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -332,6 +335,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Cusomer" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Cusomer" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -352,7 +358,7 @@
       <workItem from="1581907836095" duration="12188000" />
       <workItem from="1581989834115" duration="1571000" />
       <workItem from="1581991498353" duration="2843000" />
-      <workItem from="1581994798941" duration="512000" />
+      <workItem from="1581994798941" duration="1232000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交github Test1">
       <created>1581993994553</created>
@@ -375,15 +381,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581995054529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="拉取成功">
+      <created>1581995371769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581995371769</updated>
+    </task>
+    <task id="LOCAL-00005" summary="推送至分支dev">
+      <created>1581996015012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581996015012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17786000" />
+    <option name="totallyTimeSpent" value="18506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49943376" visible="true" weight="0.2777778" />
@@ -430,7 +449,9 @@
     <MESSAGE value="idea提交github Test1" />
     <MESSAGE value="idea提交github Test2" />
     <MESSAGE value="idea提交github Test4" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea提交github Test4" />
+    <MESSAGE value="拉取成功" />
+    <MESSAGE value="推送至分支dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="推送至分支dev" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -654,7 +675,11 @@
     <entry file="file://$PROJECT_DIR$/Module02/src/com/atguigu/bean/GitTest07Pull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
